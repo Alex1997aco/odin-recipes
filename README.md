@@ -1,6 +1,5 @@
-# odin-recipes
+# odin recipes
 my first project named "recipes"
 
-this project will force me to use my basic HTML skills
 
-Self-reflection: This will be filled when the project ends unless I forget
+NOTE: With this project I have reinforced my knowledge of basic use of HTML, future work on this project is to be expected
