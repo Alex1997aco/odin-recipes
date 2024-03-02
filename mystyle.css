@@ -1,0 +1,42 @@
+/* add style to h1 that is used as main title for website */
+
+.title_style {
+    font-family: monospace;
+    font-size: 50px;
+    text-align: center;
+    color: rgb(19, 134, 44);
+    font-weight: bold;
+    background-color: rgb(39, 2, 10);
+}
+
+/* add style to list titles */
+
+.text_style {
+    font-family: 'Times New Roman', serif;
+    font-size: 30px;
+    background-color: rgb(235, 202, 232);
+    font-weight: bold;
+}
+
+.text_style2 {
+    font-family: sans-serif;
+    font-size: 20px;
+    background-color: rgb(240, 214, 238);
+    font-weight: bold;
+}
+
+
+.text_style3 {
+    font-family: monospace;
+    font-size: 15px;
+    background-color: rgb(219, 196, 218);
+    font-weight: bold;
+}
+
+
+
+/* add background color to our main webpage */
+body {
+    background-color: rgb(158, 161, 131);
+
+}
