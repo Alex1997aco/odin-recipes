@@ -12,14 +12,14 @@
 /* add style to list titles */
 
 .text_style {
-    font-family: 'Times New Roman', serif;
+    font-family: monospace;
     font-size: 30px;
     background-color: rgb(235, 202, 232);
     font-weight: bold;
 }
 
 .text_style2 {
-    font-family: sans-serif;
+    font-family: monospace;
     font-size: 20px;
     background-color: rgb(240, 214, 238);
     font-weight: bold;
@@ -33,10 +33,19 @@
     font-weight: bold;
 }
 
+/* add picture of kebab so main webpage looks more stylish */
 
+.kebab {
+    width: 1000px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
 
 /* add background color to our main webpage */
 body {
     background-color: rgb(158, 161, 131);
 
 }
+
