@@ -54,11 +54,18 @@
     color: rgb(4, 4, 68);
 }
 
+.img_thumbprint_cookies {
+    height: auto;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
 
 /* add background color and font to some of our pages */
 body {
     background-color: rgb(158, 161, 131);
     font-family: monospace;
-
 }
 
