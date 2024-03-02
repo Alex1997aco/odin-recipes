@@ -43,6 +43,18 @@
     display: block;
 }
 
+
+/* add more style to site Perfect thumbprint cookies */
+
+.ingredient_title {
+    color: red;
+}
+
+.list_items{
+    color: rgb(4, 4, 68);
+}
+
+
 /* add background color to some of our pages */
 body {
     background-color: rgb(158, 161, 131);
