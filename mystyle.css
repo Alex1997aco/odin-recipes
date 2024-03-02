@@ -46,6 +46,7 @@
 /* add background color to some of our pages */
 body {
     background-color: rgb(158, 161, 131);
+    font-family: monospace;
 
 }
 
