@@ -25,6 +25,11 @@ p {
     color: rgb(19, 134, 44);
     font-weight: bold;
     background-color: rgb(39, 2, 10);
+    border: outset;
+    padding: 5px;
+    width: 991px;
+    margin-left: 10px;
+    
 }
 
 .text_style {
@@ -52,9 +57,10 @@ p {
 .kebab {
     width: 1000px;
     height: auto;
-    margin-left: auto;
+    margin-left: 10px;
     margin-right: auto;
     display: block;
+    border: slateblue solid;
 }
 
 
