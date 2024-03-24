@@ -1,4 +1,4 @@
-/* add background color and font to our pages */
+/* add background color and font to all of our pages */
 body {
     background-color: rgb(158, 161, 131);
     font-family: monospace;
@@ -17,7 +17,7 @@ p {
 
 }
 
-/* add style to home page */
+/* add style to homepage */
 .title_style {
     font-family: monospace;
     font-size: 50px;
@@ -58,7 +58,7 @@ p {
 }
 
 
-/* add  style to site Perfect thumbprint cookies */
+/* add  style to site Perfect-thumbprint-cookies */
 .title-thumb {
     color: rgb(228, 21, 21);
     background-color: rgba(32, 17, 117, 0.8);
